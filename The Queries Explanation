@@ -1,0 +1,39 @@
+Coach Queries :
+##Q1
+The lowest average grade of the workouts and the coaches did this training
+##Q2
+the player with the second best three shot precentage from maccabi bon
+##Q3
+organize all of the coaches in the club by the average of the rebounds of their players
+##Q4
+the captains of the teams that take first place on their league
+##Q5
+the position of the players with the worst free throw precentage 
+##Q6
+the players that their average larger then the avarege of all of the players in maccabi noam hadera
+##Q7
+update free throw precentage of one of the players
+##Q8 
+update the name of one of the leagues
+
+
+Manager Queries:
+##Q1
+the Coaches that their team is in the first place
+##Q2
+the players in the club with the worst avarege points limited by 4
+##Q3
+ show for each team the player with the higest number of points
+##Q4
+show the "oldest" coaches of the team (their age is over 30)
+##Q5
+show the players who moved between teams in the club
+##Q6
+show in one collumn the total wins and the total looses of the club
+##Q7
+create a procedure that will takes an id as an input  and returns the average grade of his workouts, using a variable
+##Q8
+create a procedure that will take an id as an input and returnes relevant stats of the player
+
+
+
