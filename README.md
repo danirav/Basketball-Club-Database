@@ -2,11 +2,13 @@
 
 We have 4 files:
 
-The first one called "CREATE & INSERT" covers the create and insert commands and create the database for any use.
+The first one called "Tables Creation", actually has the CREATE TABLE commands, and refers to the different data types.
 
-The second file called coach queries comprises the answers for all of the common needs of the basketball club staff I could think of, that one reffers to the coaches queries
+The second file called INSERT refers to the data I chose to insert into the tables 
 
-The third file includes the manager queries
+The third file called coach queries comprises the answers for all of the familiar needs of the basketball club staff I could think of, that one refers to the coaches queries
 
-The fourth file contains all of the demands for the queries, for a better understanding
+The fourth file includes the manager queries
+
+The fifth file contains all of the demands for the queries, for better understanding.
 
