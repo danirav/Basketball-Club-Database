@@ -1,6 +1,5 @@
 ## Basketball-Club-Database
-
-We have 4 files:
+we have 5 files:
 
 The first one called "Tables Creation", actually has the CREATE TABLE commands, and refers to the different data types.
 
